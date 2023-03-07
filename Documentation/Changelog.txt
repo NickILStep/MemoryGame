@@ -1,0 +1,15 @@
+Memory Changelog (since update submission):
+
+-Made it so only two cards can be chosen at once, preventing match errors.
+-Made it so the scoreboard is sorted by scores.
+-Added in-code reference to source for cards.
+-Added sound effects.
+-Made it so the same card can't be selected twice in one pairing.
+-Added a current score counter to the display.
+-Added a toggle to turn sound on/off.
+-Added restart/play again button.
+-Added background color.
+-Made the window size fixed.
+-Minor layout changes.
+-Made JFrame open in center of screen.
+-Added an arrow to the scoreboard to show most recent score.
